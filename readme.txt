@@ -5,4 +5,7 @@ git has a mutable index called stage
 git tracks changes 22
 create a new branch is quick & simple2
 create a new branch is quick and simple
-new 
+new
+another merge
+new merge 
+55555555555555555555
