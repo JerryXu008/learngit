@@ -1,14 +1,16 @@
- fffsffsfsfssdfsdf
+1fffsffsfsfssdfsdf
 git is a distibuted version control system
 git is free software sitributed under the GPL
 git has a mutable index called stage
 git tracks changes 22
-create a new branch is quick & simple2
+111create a new branch is quick & simple2
 create a new branch is quick and simple
 new
 another merge
 new merge 
 5555555555555555555
+fdsfdsfdfdsf在开发任务5
+er
 1正在开发任务
 fdsfsdfdfsf5
 fdsfdsfdsfsfdsfsdf
@@ -21,7 +23,6 @@ ffdsfdsfsdfsdfs11111111111
 11111111111111111111111111111111111
 1111111111111111111111111111
 11111111111111111111111111111111111
-1111111111111111111111111111
 11111111111111111111111111111111111
 1111111111111111111111111111
 11111111111111111111111111111111111
